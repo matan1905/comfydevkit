@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["index.ts"],
+  "sourcesContent": ["console.log(\"hello world! from ComfyDevKit web index.ts\")"],
+  "mappings": "MAAA,QAAQ,IAAI,4CAA4C",
+  "names": []
+}
