@@ -3,7 +3,11 @@ This is a development kit for ComfyUI.
 it helps you getting started with ComfyUI plugin development and provides you with a set of quality of life tools.
 
 ## Installation
-Put this folder in the `custom_nodes` folder of your ComfyUI installation.
+Go to `custom_nodes` folder of your ComfyUI installation and run:
+```bash
+git clone https://github.com/matan1905/comfydevkit.git
+
+```
 
 
 ## Features
